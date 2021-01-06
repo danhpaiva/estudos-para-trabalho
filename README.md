@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="images/job-main.png" width="300" alt="Job Image">
+    <img src="images/job-main.png" width="500" alt="Job Image">
   </a>
 </p>
 
