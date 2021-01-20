@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    Repositório para lhe ajudar a conseguir seu primeiro emprego
+    Repositório para lhe ajudar a conseguir seu primeiro emprego.
 </p>
 
 Materiais de Estudo
